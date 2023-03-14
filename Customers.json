@@ -1,0 +1,47 @@
+[
+ {
+   "CustomerId": 1,
+   "CustomerName": "DHL",
+   "CustomerParent": null
+ },
+ {
+   "CustomerId": 2,
+   "CustomerName": "DHL-Post",
+   "CustomerParent": 1
+ },
+ {
+   "CustomerId": 3,
+   "CustomerName": "DHL International GmbH ",
+   "CustomerParent": 1
+ },
+ {
+   "CustomerId": 4,
+   "CustomerName": "FedEx",
+   "CustomerParent": 4
+ },
+ {
+   "CustomerId": 5,
+   "CustomerName": "fedex",
+   "CustomerParent": 4
+ },
+ {
+   "CustomerId": 6,
+   "CustomerName": "FEDEX",
+   "CustomerParent": 4
+ },
+ {
+   "CustomerId": 7,
+   "CustomerName": "Amazon",
+   "CustomerParent": 8
+ },
+ {
+   "CustomerId": 8,
+   "CustomerName": "Amazon Logistics",
+   "CustomerParent": 7
+ },
+ {
+   "CustomerId": 9,
+   "CustomerName": "Amazon Dilivery",
+   "CustomerParent": 8
+ }
+]
